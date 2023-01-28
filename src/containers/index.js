@@ -1,5 +1,5 @@
-export { default as blog } from "./blog";
-export { default as features } from "./features";
-export { default as footer } from "./footer";
-export { default as posibilities } from "./posibilities";
-export { default as whatGPT3 } from "./whatGPT3";
+export { default as Blog } from "./blog/Blog";
+export { default as Features } from "./features/Features";
+export { default as Footer } from "./footer/Footer";
+export { default as Posibilities } from "./posibilities/Possibility";
+export { default as WhatGPT3 } from "./whatGPT3/WhatGPT3";
